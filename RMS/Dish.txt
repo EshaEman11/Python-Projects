@@ -1,0 +1,9 @@
+Pizza,1000
+Ice,1000
+Zinger,500
+Zehar,50000
+dfg,345
+xcvb,3456
+xcvbn,678
+sdfghj,23456
+Food,1900
